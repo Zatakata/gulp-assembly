@@ -1,0 +1,10 @@
+@import '../../node_modules/normalize.css/normalize';
+
+$mainColor: rgba(0, 0, 153, 0.87);
+
+body {
+  background-color: $mainColor;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: arial;
+}
